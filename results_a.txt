@@ -1,0 +1,731 @@
+Cache Log, Single Block Cache, 1 block, 256 bytes per block
+
+(1)  Address:0x2098, (tag 0x20)  block range 0-0
+trying block 0 empty/invalid -- MISS
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(2)  Address:0x2094, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 10010100
+Least Recently Used blocks: [0]
+
+(3)  Address:0x2090, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 10010000
+Least Recently Used blocks: [0]
+
+(4)  Address:0x208c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 10001100
+Least Recently Used blocks: [0]
+
+(5)  Address:0x2088, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 10001000
+Least Recently Used blocks: [0]
+
+(6)  Address:0x2084, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 10000100
+Least Recently Used blocks: [0]
+
+(7)  Address:0x2080, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 10000000
+Least Recently Used blocks: [0]
+
+(8)  Address:0x207c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01111100
+Least Recently Used blocks: [0]
+
+(9)  Address:0x2078, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01111000
+Least Recently Used blocks: [0]
+
+(10)  Address:0x2074, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01110100
+Least Recently Used blocks: [0]
+
+(11)  Address:0x2070, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01110000
+Least Recently Used blocks: [0]
+
+(12)  Address:0x206c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01101100
+Least Recently Used blocks: [0]
+
+(13)  Address:0x2068, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01101000
+Least Recently Used blocks: [0]
+
+(14)  Address:0x2064, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01100100
+Least Recently Used blocks: [0]
+
+(15)  Address:0x2060, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01100000
+Least Recently Used blocks: [0]
+
+(16)  Address:0x205c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01011100
+Least Recently Used blocks: [0]
+
+(17)  Address:0x2058, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01011000
+Least Recently Used blocks: [0]
+
+(18)  Address:0x2054, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01010100
+Least Recently Used blocks: [0]
+
+(19)  Address:0x2050, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01010000
+Least Recently Used blocks: [0]
+
+(20)  Address:0x204c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01001100
+Least Recently Used blocks: [0]
+
+(21)  Address:0x2048, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01001000
+Least Recently Used blocks: [0]
+
+(22)  Address:0x2044, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01000100
+Least Recently Used blocks: [0]
+
+(23)  Address:0x2040, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01000000
+Least Recently Used blocks: [0]
+
+(24)  Address:0x203c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00111100
+Least Recently Used blocks: [0]
+
+(25)  Address:0x2038, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00111000
+Least Recently Used blocks: [0]
+
+(26)  Address:0x2034, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00110100
+Least Recently Used blocks: [0]
+
+(27)  Address:0x2030, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00110000
+Least Recently Used blocks: [0]
+
+(28)  Address:0x202c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00101100
+Least Recently Used blocks: [0]
+
+(29)  Address:0x2028, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00101000
+Least Recently Used blocks: [0]
+
+(30)  Address:0x2024, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00100100
+Least Recently Used blocks: [0]
+
+(31)  Address:0x2020, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00100000
+Least Recently Used blocks: [0]
+
+(32)  Address:0x2010, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00010000
+Least Recently Used blocks: [0]
+
+(33)  Address:0x2010, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00010000
+Least Recently Used blocks: [0]
+
+(34)  Address:0x2014, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00010100
+Least Recently Used blocks: [0]
+
+(35)  Address:0x2018, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00011000
+Least Recently Used blocks: [0]
+
+(36)  Address:0x2100, (tag 0x21)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x21
+Least Recently Used blocks: [0]
+
+(37)  Address:0x2014, (tag 0x20)  block range 0-0
+trying block 0 tag 0x21 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(38)  Address:0x2014, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00010100
+Least Recently Used blocks: [0]
+
+(39)  Address:0x2018, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00011000
+Least Recently Used blocks: [0]
+
+(40)  Address:0x201c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00011100
+Least Recently Used blocks: [0]
+
+(41)  Address:0x2124, (tag 0x21)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x21
+Least Recently Used blocks: [0]
+
+(42)  Address:0x2018, (tag 0x20)  block range 0-0
+trying block 0 tag 0x21 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(43)  Address:0x2018, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00011000
+Least Recently Used blocks: [0]
+
+(44)  Address:0x201c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00011100
+Least Recently Used blocks: [0]
+
+(45)  Address:0x2020, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00100000
+Least Recently Used blocks: [0]
+
+(46)  Address:0x2150, (tag 0x21)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x21
+Least Recently Used blocks: [0]
+
+(47)  Address:0x201c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x21 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(48)  Address:0x201c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00011100
+Least Recently Used blocks: [0]
+
+(49)  Address:0x2020, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00100000
+Least Recently Used blocks: [0]
+
+(50)  Address:0x2024, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00100100
+Least Recently Used blocks: [0]
+
+(51)  Address:0x2184, (tag 0x21)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x21
+Least Recently Used blocks: [0]
+
+(52)  Address:0x2020, (tag 0x20)  block range 0-0
+trying block 0 tag 0x21 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(53)  Address:0x2020, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00100000
+Least Recently Used blocks: [0]
+
+(54)  Address:0x2024, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00100100
+Least Recently Used blocks: [0]
+
+(55)  Address:0x2028, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00101000
+Least Recently Used blocks: [0]
+
+(56)  Address:0x21c0, (tag 0x21)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x21
+Least Recently Used blocks: [0]
+
+(57)  Address:0x2024, (tag 0x20)  block range 0-0
+trying block 0 tag 0x21 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(58)  Address:0x2024, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00100100
+Least Recently Used blocks: [0]
+
+(59)  Address:0x2028, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00101000
+Least Recently Used blocks: [0]
+
+(60)  Address:0x202c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00101100
+Least Recently Used blocks: [0]
+
+(61)  Address:0x2204, (tag 0x22)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x22
+Least Recently Used blocks: [0]
+
+(62)  Address:0x2028, (tag 0x20)  block range 0-0
+trying block 0 tag 0x22 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(63)  Address:0x2028, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00101000
+Least Recently Used blocks: [0]
+
+(64)  Address:0x202c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00101100
+Least Recently Used blocks: [0]
+
+(65)  Address:0x2030, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00110000
+Least Recently Used blocks: [0]
+
+(66)  Address:0x2250, (tag 0x22)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x22
+Least Recently Used blocks: [0]
+
+(67)  Address:0x202c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x22 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(68)  Address:0x202c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00101100
+Least Recently Used blocks: [0]
+
+(69)  Address:0x2030, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00110000
+Least Recently Used blocks: [0]
+
+(70)  Address:0x2034, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00110100
+Least Recently Used blocks: [0]
+
+(71)  Address:0x22a4, (tag 0x22)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x22
+Least Recently Used blocks: [0]
+
+(72)  Address:0x2030, (tag 0x20)  block range 0-0
+trying block 0 tag 0x22 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(73)  Address:0x2030, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00110000
+Least Recently Used blocks: [0]
+
+(74)  Address:0x2034, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00110100
+Least Recently Used blocks: [0]
+
+(75)  Address:0x2038, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00111000
+Least Recently Used blocks: [0]
+
+(76)  Address:0x2300, (tag 0x23)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x23
+Least Recently Used blocks: [0]
+
+(77)  Address:0x2034, (tag 0x20)  block range 0-0
+trying block 0 tag 0x23 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(78)  Address:0x2034, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00110100
+Least Recently Used blocks: [0]
+
+(79)  Address:0x2038, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00111000
+Least Recently Used blocks: [0]
+
+(80)  Address:0x203c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00111100
+Least Recently Used blocks: [0]
+
+(81)  Address:0x2364, (tag 0x23)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x23
+Least Recently Used blocks: [0]
+
+(82)  Address:0x2038, (tag 0x20)  block range 0-0
+trying block 0 tag 0x23 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(83)  Address:0x2038, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00111000
+Least Recently Used blocks: [0]
+
+(84)  Address:0x203c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00111100
+Least Recently Used blocks: [0]
+
+(85)  Address:0x2040, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01000000
+Least Recently Used blocks: [0]
+
+(86)  Address:0x23d0, (tag 0x23)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x23
+Least Recently Used blocks: [0]
+
+(87)  Address:0x203c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x23 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(88)  Address:0x203c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 00111100
+Least Recently Used blocks: [0]
+
+(89)  Address:0x2040, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01000000
+Least Recently Used blocks: [0]
+
+(90)  Address:0x2044, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01000100
+Least Recently Used blocks: [0]
+
+(91)  Address:0x2444, (tag 0x24)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x24
+Least Recently Used blocks: [0]
+
+(92)  Address:0x2040, (tag 0x20)  block range 0-0
+trying block 0 tag 0x24 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(93)  Address:0x2040, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01000000
+Least Recently Used blocks: [0]
+
+(94)  Address:0x2044, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01000100
+Least Recently Used blocks: [0]
+
+(95)  Address:0x2048, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01001000
+Least Recently Used blocks: [0]
+
+(96)  Address:0x24c0, (tag 0x24)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x24
+Least Recently Used blocks: [0]
+
+(97)  Address:0x2044, (tag 0x20)  block range 0-0
+trying block 0 tag 0x24 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(98)  Address:0x2044, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01000100
+Least Recently Used blocks: [0]
+
+(99)  Address:0x2048, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01001000
+Least Recently Used blocks: [0]
+
+(100)  Address:0x204c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01001100
+Least Recently Used blocks: [0]
+
+(101)  Address:0x2544, (tag 0x25)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x25
+Least Recently Used blocks: [0]
+
+(102)  Address:0x2048, (tag 0x20)  block range 0-0
+trying block 0 tag 0x25 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(103)  Address:0x2048, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01001000
+Least Recently Used blocks: [0]
+
+(104)  Address:0x204c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01001100
+Least Recently Used blocks: [0]
+
+(105)  Address:0x2050, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01010000
+Least Recently Used blocks: [0]
+
+(106)  Address:0x25d0, (tag 0x25)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x25
+Least Recently Used blocks: [0]
+
+(107)  Address:0x204c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x25 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(108)  Address:0x204c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01001100
+Least Recently Used blocks: [0]
+
+(109)  Address:0x2050, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01010000
+Least Recently Used blocks: [0]
+
+(110)  Address:0x2054, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01010100
+Least Recently Used blocks: [0]
+
+(111)  Address:0x2664, (tag 0x26)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x26
+Least Recently Used blocks: [0]
+
+(112)  Address:0x2050, (tag 0x20)  block range 0-0
+trying block 0 tag 0x26 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(113)  Address:0x2050, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01010000
+Least Recently Used blocks: [0]
+
+(114)  Address:0x2054, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01010100
+Least Recently Used blocks: [0]
+
+(115)  Address:0x2058, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01011000
+Least Recently Used blocks: [0]
+
+(116)  Address:0x2700, (tag 0x27)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x27
+Least Recently Used blocks: [0]
+
+(117)  Address:0x2054, (tag 0x20)  block range 0-0
+trying block 0 tag 0x27 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(118)  Address:0x2054, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01010100
+Least Recently Used blocks: [0]
+
+(119)  Address:0x2058, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01011000
+Least Recently Used blocks: [0]
+
+(120)  Address:0x205c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01011100
+Least Recently Used blocks: [0]
+
+(121)  Address:0x27a4, (tag 0x27)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x27
+Least Recently Used blocks: [0]
+
+(122)  Address:0x2058, (tag 0x20)  block range 0-0
+trying block 0 tag 0x27 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(123)  Address:0x2058, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01011000
+Least Recently Used blocks: [0]
+
+(124)  Address:0x205c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01011100
+Least Recently Used blocks: [0]
+
+(125)  Address:0x2060, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01100000
+Least Recently Used blocks: [0]
+
+(126)  Address:0x2850, (tag 0x28)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x28
+Least Recently Used blocks: [0]
+
+(127)  Address:0x205c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x28 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(128)  Address:0x205c, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01011100
+Least Recently Used blocks: [0]
+
+(129)  Address:0x2060, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01100000
+Least Recently Used blocks: [0]
+
+(130)  Address:0x2064, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01100100
+Least Recently Used blocks: [0]
+
+(131)  Address:0x2904, (tag 0x29)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x29
+Least Recently Used blocks: [0]
+
+(132)  Address:0x2060, (tag 0x20)  block range 0-0
+trying block 0 tag 0x29 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x20
+Least Recently Used blocks: [0]
+
+(133)  Address:0x2060, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01100000
+Least Recently Used blocks: [0]
+
+(134)  Address:0x2064, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01100100
+Least Recently Used blocks: [0]
+
+(135)  Address:0x2068, (tag 0x20)  block range 0-0
+trying block 0 tag 0x20 -- HIT
+Access offset: 01101000
+Least Recently Used blocks: [0]
+
+(136)  Address:0x29c0, (tag 0x29)  block range 0-0
+trying block 0 tag 0x20 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x29
+Least Recently Used blocks: [0]
+
+(137)  Address:0x2a84, (tag 0x2a)  block range 0-0
+trying block 0 tag 0x29 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x2a
+Least Recently Used blocks: [0]
+
+
+Cache Hits: 94, Cache Misses: 43, Cache Hit Rate: 69.0%

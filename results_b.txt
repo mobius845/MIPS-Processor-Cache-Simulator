@@ -1,0 +1,573 @@
+Cache Log, Direct Mapped, 8 blocks, 64 bytes per block
+
+(1)  Address:0x2098, (tag 0x10)  block range 2-2
+trying block 2 empty/invalid -- MISS
+Pull from memory block: 0x10
+
+(2)  Address:0x2094, (tag 0x10)  block range 2-2
+trying block 2 tag 0x10 -- HIT
+Access offset: 010100
+
+(3)  Address:0x2090, (tag 0x10)  block range 2-2
+trying block 2 tag 0x10 -- HIT
+Access offset: 010000
+
+(4)  Address:0x208c, (tag 0x10)  block range 2-2
+trying block 2 tag 0x10 -- HIT
+Access offset: 001100
+
+(5)  Address:0x2088, (tag 0x10)  block range 2-2
+trying block 2 tag 0x10 -- HIT
+Access offset: 001000
+
+(6)  Address:0x2084, (tag 0x10)  block range 2-2
+trying block 2 tag 0x10 -- HIT
+Access offset: 000100
+
+(7)  Address:0x2080, (tag 0x10)  block range 2-2
+trying block 2 tag 0x10 -- HIT
+Access offset: 000000
+
+(8)  Address:0x207c, (tag 0x10)  block range 1-1
+trying block 1 empty/invalid -- MISS
+Pull from memory block: 0x10
+
+(9)  Address:0x2078, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 111000
+
+(10)  Address:0x2074, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 110100
+
+(11)  Address:0x2070, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 110000
+
+(12)  Address:0x206c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 101100
+
+(13)  Address:0x2068, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 101000
+
+(14)  Address:0x2064, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 100100
+
+(15)  Address:0x2060, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 100000
+
+(16)  Address:0x205c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011100
+
+(17)  Address:0x2058, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011000
+
+(18)  Address:0x2054, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010100
+
+(19)  Address:0x2050, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010000
+
+(20)  Address:0x204c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001100
+
+(21)  Address:0x2048, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001000
+
+(22)  Address:0x2044, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 000100
+
+(23)  Address:0x2040, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 000000
+
+(24)  Address:0x203c, (tag 0x10)  block range 0-0
+trying block 0 empty/invalid -- MISS
+Pull from memory block: 0x10
+
+(25)  Address:0x2038, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111000
+
+(26)  Address:0x2034, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110100
+
+(27)  Address:0x2030, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110000
+
+(28)  Address:0x202c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101100
+
+(29)  Address:0x2028, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101000
+
+(30)  Address:0x2024, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100100
+
+(31)  Address:0x2020, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100000
+
+(32)  Address:0x2010, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 010000
+
+(33)  Address:0x2010, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 010000
+
+(34)  Address:0x2014, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 010100
+
+(35)  Address:0x2018, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 011000
+
+(36)  Address:0x2100, (tag 0x10)  block range 4-4
+trying block 4 empty/invalid -- MISS
+Pull from memory block: 0x10
+
+(37)  Address:0x2014, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 010100
+
+(38)  Address:0x2014, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 010100
+
+(39)  Address:0x2018, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 011000
+
+(40)  Address:0x201c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 011100
+
+(41)  Address:0x2124, (tag 0x10)  block range 4-4
+trying block 4 tag 0x10 -- HIT
+Access offset: 100100
+
+(42)  Address:0x2018, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 011000
+
+(43)  Address:0x2018, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 011000
+
+(44)  Address:0x201c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 011100
+
+(45)  Address:0x2020, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100000
+
+(46)  Address:0x2150, (tag 0x10)  block range 5-5
+trying block 5 empty/invalid -- MISS
+Pull from memory block: 0x10
+
+(47)  Address:0x201c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 011100
+
+(48)  Address:0x201c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 011100
+
+(49)  Address:0x2020, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100000
+
+(50)  Address:0x2024, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100100
+
+(51)  Address:0x2184, (tag 0x10)  block range 6-6
+trying block 6 empty/invalid -- MISS
+Pull from memory block: 0x10
+
+(52)  Address:0x2020, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100000
+
+(53)  Address:0x2020, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100000
+
+(54)  Address:0x2024, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100100
+
+(55)  Address:0x2028, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101000
+
+(56)  Address:0x21c0, (tag 0x10)  block range 7-7
+trying block 7 empty/invalid -- MISS
+Pull from memory block: 0x10
+
+(57)  Address:0x2024, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100100
+
+(58)  Address:0x2024, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 100100
+
+(59)  Address:0x2028, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101000
+
+(60)  Address:0x202c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101100
+
+(61)  Address:0x2204, (tag 0x11)  block range 0-0
+trying block 0 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x11
+
+(62)  Address:0x2028, (tag 0x10)  block range 0-0
+trying block 0 tag 0x11 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 0
+Pull from memory block: 0x10
+
+(63)  Address:0x2028, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101000
+
+(64)  Address:0x202c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101100
+
+(65)  Address:0x2030, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110000
+
+(66)  Address:0x2250, (tag 0x11)  block range 1-1
+trying block 1 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 1
+Pull from memory block: 0x11
+
+(67)  Address:0x202c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101100
+
+(68)  Address:0x202c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 101100
+
+(69)  Address:0x2030, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110000
+
+(70)  Address:0x2034, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110100
+
+(71)  Address:0x22a4, (tag 0x11)  block range 2-2
+trying block 2 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 2
+Pull from memory block: 0x11
+
+(72)  Address:0x2030, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110000
+
+(73)  Address:0x2030, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110000
+
+(74)  Address:0x2034, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110100
+
+(75)  Address:0x2038, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111000
+
+(76)  Address:0x2300, (tag 0x11)  block range 4-4
+trying block 4 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 4
+Pull from memory block: 0x11
+
+(77)  Address:0x2034, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110100
+
+(78)  Address:0x2034, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 110100
+
+(79)  Address:0x2038, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111000
+
+(80)  Address:0x203c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111100
+
+(81)  Address:0x2364, (tag 0x11)  block range 5-5
+trying block 5 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 5
+Pull from memory block: 0x11
+
+(82)  Address:0x2038, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111000
+
+(83)  Address:0x2038, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111000
+
+(84)  Address:0x203c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111100
+
+(85)  Address:0x2040, (tag 0x10)  block range 1-1
+trying block 1 tag 0x11 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 1
+Pull from memory block: 0x10
+
+(86)  Address:0x23d0, (tag 0x11)  block range 7-7
+trying block 7 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 7
+Pull from memory block: 0x11
+
+(87)  Address:0x203c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111100
+
+(88)  Address:0x203c, (tag 0x10)  block range 0-0
+trying block 0 tag 0x10 -- HIT
+Access offset: 111100
+
+(89)  Address:0x2040, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 000000
+
+(90)  Address:0x2044, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 000100
+
+(91)  Address:0x2444, (tag 0x12)  block range 1-1
+trying block 1 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 1
+Pull from memory block: 0x12
+
+(92)  Address:0x2040, (tag 0x10)  block range 1-1
+trying block 1 tag 0x12 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 1
+Pull from memory block: 0x10
+
+(93)  Address:0x2040, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 000000
+
+(94)  Address:0x2044, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 000100
+
+(95)  Address:0x2048, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001000
+
+(96)  Address:0x24c0, (tag 0x12)  block range 3-3
+trying block 3 empty/invalid -- MISS
+Pull from memory block: 0x12
+
+(97)  Address:0x2044, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 000100
+
+(98)  Address:0x2044, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 000100
+
+(99)  Address:0x2048, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001000
+
+(100)  Address:0x204c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001100
+
+(101)  Address:0x2544, (tag 0x12)  block range 5-5
+trying block 5 tag 0x11 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 5
+Pull from memory block: 0x12
+
+(102)  Address:0x2048, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001000
+
+(103)  Address:0x2048, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001000
+
+(104)  Address:0x204c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001100
+
+(105)  Address:0x2050, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010000
+
+(106)  Address:0x25d0, (tag 0x12)  block range 7-7
+trying block 7 tag 0x11 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 7
+Pull from memory block: 0x12
+
+(107)  Address:0x204c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001100
+
+(108)  Address:0x204c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 001100
+
+(109)  Address:0x2050, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010000
+
+(110)  Address:0x2054, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010100
+
+(111)  Address:0x2664, (tag 0x13)  block range 1-1
+trying block 1 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 1
+Pull from memory block: 0x13
+
+(112)  Address:0x2050, (tag 0x10)  block range 1-1
+trying block 1 tag 0x13 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 1
+Pull from memory block: 0x10
+
+(113)  Address:0x2050, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010000
+
+(114)  Address:0x2054, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010100
+
+(115)  Address:0x2058, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011000
+
+(116)  Address:0x2700, (tag 0x13)  block range 4-4
+trying block 4 tag 0x11 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 4
+Pull from memory block: 0x13
+
+(117)  Address:0x2054, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010100
+
+(118)  Address:0x2054, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 010100
+
+(119)  Address:0x2058, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011000
+
+(120)  Address:0x205c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011100
+
+(121)  Address:0x27a4, (tag 0x13)  block range 6-6
+trying block 6 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 6
+Pull from memory block: 0x13
+
+(122)  Address:0x2058, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011000
+
+(123)  Address:0x2058, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011000
+
+(124)  Address:0x205c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011100
+
+(125)  Address:0x2060, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 100000
+
+(126)  Address:0x2850, (tag 0x14)  block range 1-1
+trying block 1 tag 0x10 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 1
+Pull from memory block: 0x14
+
+(127)  Address:0x205c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x14 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 1
+Pull from memory block: 0x10
+
+(128)  Address:0x205c, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 011100
+
+(129)  Address:0x2060, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 100000
+
+(130)  Address:0x2064, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 100100
+
+(131)  Address:0x2904, (tag 0x14)  block range 4-4
+trying block 4 tag 0x13 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 4
+Pull from memory block: 0x14
+
+(132)  Address:0x2060, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 100000
+
+(133)  Address:0x2060, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 100000
+
+(134)  Address:0x2064, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 100100
+
+(135)  Address:0x2068, (tag 0x10)  block range 1-1
+trying block 1 tag 0x10 -- HIT
+Access offset: 101000
+
+(136)  Address:0x29c0, (tag 0x14)  block range 7-7
+trying block 7 tag 0x12 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 7
+Pull from memory block: 0x14
+
+(137)  Address:0x2a84, (tag 0x15)  block range 2-2
+trying block 2 tag 0x11 -- OCCUPIED
+MISS due to FULL SET -- LRU replace block 2
+Pull from memory block: 0x15
+
+
+Cache Hits: 108, Cache Misses: 29, Cache Hit Rate: 79.0%
